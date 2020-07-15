@@ -20,8 +20,36 @@ MVC, MVP, MVVM pattern에 대해 공부하며 작성한 repository입니다.
 
 1.2 MVP
 -------------
+<img src="https://user-images.githubusercontent.com/29828988/87529055-61d07900-c6c9-11ea-857b-287e5e5195ab.png"></img>
 
 
+* ### DetailActivity를 띄우는 과정
+1. RepositoryListPresenter에서 어떤 Item이 선택되었는지 확인
+2. RepositoryListPresenter 내부의 변수를 통해 RepositoryListActivity의 startDetailActivity를 호출
+
+
+    - [ RepositoryListPresneter ]
+<pre>
+<code>
+    @Override
+    public void selectRepositoryItem(GitHubService.RepositoryItem item) {
+        repositoryListView.startDetailActivity(item.full_name);
+    }
+</code>
+</pre>
+
+3. DetailActivity view가 화면에 보임
+
+
+    - [ RepositoryLitActivity ]
+<pre>
+<code>
+    @Override
+    public void startDetailActivity(String fullRepositoryName) {
+        DetailActivity.start(this, fullRepositoryName);
+    }
+</code>
+</pre>
 
 
 1.3 MVVM
