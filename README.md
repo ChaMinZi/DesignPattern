@@ -12,3 +12,17 @@ MVC, MVP, MVVM pattern에 대해 공부하며 작성한 repository입니다.
 <img src="https://user-images.githubusercontent.com/29828988/87517637-18c4f880-c6ba-11ea-8fdc-56f0605840a4.jpg" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/29828988/87517639-19f62580-c6ba-11ea-9a18-c874496a8d45.jpg" width="30%"></img>
 
+# 1.구조
+1.1 MVC
+-------------
+<img src="https://user-images.githubusercontent.com/29828988/87524520-39458080-c6c3-11ea-9386-9b53850bb779.png"></img>
+
+
+1.2 MVP
+-------------
+
+
+
+
+1.3 MVVM
+-------------
