@@ -1,4 +1,4 @@
-# DesignPattern
+# Architectural pattern
 
 MVC, MVP, MVVM pattern에 대해 공부하며 작성한 repository입니다.
 
