@@ -1,3 +1,34 @@
+# Design Pattern
+#### 1. 생성에 관련된 패턴
+* Builder
+* Factory Method
+* Prototype
+* Singleton
+
+#### 2. 구조에 관한 패턴
+* Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Flyweight
+* Proxy
+    
+#### 3. 동작에 관한 패턴
+* Chain of Responsibility
+* Command
+* Interpreter
+* Iterator
+* Mediator
+* Memento
+* Observer
+* State
+* Strategy
+* Template Method
+* Visitor
+
+
+-------------------
 # Architectural pattern
 
 MVC, MVP, MVVM pattern에 대해 공부하며 작성한 repository입니다.
