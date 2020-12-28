@@ -1,7 +1,7 @@
 # Design Pattern
 #### 1. 생성에 관련된 패턴
 * [Builder](Builder/explanation.md)
-* [Factory Method](Factory Method/explanation.md)
+* Factory Method
 * Prototype
 * Singleton
 
