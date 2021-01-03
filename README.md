@@ -6,7 +6,7 @@
 * Singleton
 
 #### 2. 구조에 관한 패턴
-* Adapter
+* [Adapter](Adapter/explanation.md)
 * Bridge
 * Composite
 * Decorator
