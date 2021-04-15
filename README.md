@@ -9,7 +9,7 @@
 * [Adapter](Adapter/explanation.md)
 * Bridge
 * Composite
-* Decorator
+* [Decorator](Decorator/READMD.md)
 * Facade
 * Flyweight
 * Proxy
