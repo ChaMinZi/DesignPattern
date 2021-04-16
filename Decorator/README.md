@@ -12,6 +12,7 @@
 
 코드의 동작과정은 아래의 그림과 같이 생각할 수 있습니다.
 
-![image](https://user-images.githubusercontent.com/29828988/115053759-6fe24d00-9f1a-11eb-9fda-262ef4386b1d.png)
+![image](https://user-images.githubusercontent.com/29828988/115053909-956f5680-9f1a-11eb-8718-6147baf27870.png)
+
 
 
