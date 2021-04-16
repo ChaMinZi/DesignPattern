@@ -12,5 +12,6 @@
 
 코드의 동작과정은 아래의 그림과 같이 생각할 수 있습니다.
 
-![KakaoTalk_20210415_192329659](https://user-images.githubusercontent.com/29828988/114855053-74c2d600-9e20-11eb-88be-d725e7f2fca9.jpg)
+![image](https://user-images.githubusercontent.com/29828988/115053759-6fe24d00-9f1a-11eb-9fda-262ef4386b1d.png)
+
 
