@@ -6,7 +6,7 @@
 * Singleton
 
 #### 2. 구조에 관한 패턴
-* [Adapter](Adapter/explanation.md)
+* [Adapter](https://github.com/ChaMinZi/DesignPattern/tree/master/Adapter)
 * Bridge
 * Composite
 * [Decorator](Decorator/READMD.md)
